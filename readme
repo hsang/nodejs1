@@ -1,0 +1,11 @@
+package.json 에서 첫 진입 페이지 정의하기 - 지금은 test1.js 파일로 정의되어 있음
+git bash 를 열어서 app (alias) 으로 이동
+해당 디렉토리에서 'nodemon' 을 실행해서 웹서버 시작 (restart 는 rs 명령어로 처리)
+작업 내용은 github 에 올리는 습관을 갖자 (명령어 : git push origin master)
+github server 내용 update 는
+
+git add .
+git commit -m '내용들'
+git push origin master
+
+로 처리함
